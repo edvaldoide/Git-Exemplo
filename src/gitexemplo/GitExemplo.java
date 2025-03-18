@@ -6,6 +6,8 @@ public class GitExemplo {
         System.out.println("Hello World");
         
         System.out.println("Teste para desfazer alterações");
+        
+        System.out.println("Testando branch");
     }
 
 }
