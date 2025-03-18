@@ -10,6 +10,8 @@ public class GitExemplo {
         System.out.println("Testando branch");
         
         System.out.println("Pulando a segunda mensagem");
+        
+        System.out.println("Testando alteração da branch após merge");
     }
 
 }
