@@ -8,6 +8,8 @@ public class GitExemplo {
         System.out.println("Teste para desfazer alterações");
         
         System.out.println("Testando branch");
+        
+        System.out.println("Testando branch alternativo");
     }
 
 }
