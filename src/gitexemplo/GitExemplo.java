@@ -9,7 +9,7 @@ public class GitExemplo {
         
         System.out.println("Testando branch");
         
-        System.out.println("Testando branch alternativo");
+        System.out.println("Pulando a segunda mensagem");
     }
 
 }
